@@ -1,6 +1,13 @@
 ## Amazon Relay Autobooker Chrome Extension Help Page 
 
-### About the Extension
+## Content
+[About the extension](\#about-the-extension)
+[Requirements](\#requirements)
+[How to install](\#how-to-install)
+[How to use](\#requirements)
+[Possible issues](\#possible-issues)
+
+### About the extension
 
 Amazon Relay Autbooker Extension is developed by exprienced developers to simplify the life of truck dispatchers who struggle getting good loads on load board.
 
@@ -9,7 +16,7 @@ Amazon Relay Autbooker Extension is developed by exprienced developers to simpli
 1. Must have [Google Chrome](https://www.google.com/chrome/) web browser installed
 2. Must have an access to [Amazon Relay](https://www.relay.amazon.com)
 
-### How to install extension
+### How to install
 1. Open Chrome web browser and navigate to [Google Webstore](https://chrome.google.com/webstore/detail/amazon-relay-auto-refresh/gooaddljkpdcjbdigogmajlcgifjjhgp)
 2. Click on **Buy** button
 - If you do not see **Buy** button, you should change the account location to United States
@@ -57,3 +64,17 @@ Or books it by clicking on book and accept buttons. Extension notifies you with 
 ![Image](./screenshots/booked.png)
 
 12. Extension stops when a load is found or accepted.
+### Possible issues
+## Problem:
+   -Unable to download the extension
+## Solution:
+Extension is not available in some countries, in order to download from one of those countries, you should change location of your account.
+1. Find gear button by your account name and click on it:
+![Image](./screenshots/webstore_gear.png)
+2. Select **United States** from the list of countries
+![Image](./screenshots/webstore_countries.png)
+## Problem:
+  -Extension icon is grayed out
+## Solution:
+  Extension is active only on amazon relay load board, please navigate to [Load Board](https://relay.amazon.com/tours/loadboard?)
+  
