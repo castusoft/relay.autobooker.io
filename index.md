@@ -6,6 +6,7 @@
 - [How to install](\#how-to-install)
 - [How to use](\#requirements)
 - [Possible issues](\#possible-problems-and-solutions)
+- [Contact](\#contact)
 
 ### About the extension
 
@@ -83,5 +84,7 @@ Extension is not available in some countries, in order to download from one of t
 Extension icon is grayed out
 #### Solution:
 Extension is active only on amazon relay load board, please navigate to [Load Board](https://relay.amazon.com/tours/loadboard?)
-- - -
-Thank you for using Amazon Relay Autobooker Extension please feel free to [contact us or leave a feedback](mailto:castusoft@gmail.com)
+
+### Contanct
+Thank you for using Amazon Relay Autobooker Extension!
+If you have any suggestions, questions or comments, please feel free to [contact us](mailto:castusoft@gmail.com)
