@@ -85,6 +85,6 @@ Extension icon is grayed out
 #### Solution:
 Extension is active only on amazon relay load board, please navigate to [Load Board](https://relay.amazon.com/tours/loadboard?)
 
-### Contanct
+### Contact
 Thank you for using Amazon Relay Autobooker Extension!
 If you have any suggestions, questions or comments, please feel free to [contact us](mailto:castusoft@gmail.com)
