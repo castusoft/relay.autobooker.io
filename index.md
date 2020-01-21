@@ -49,7 +49,7 @@ Amazon Relay Auto-Booker Extension is developed by experienced developers to hel
 
 ![Image](./screenshots/extension_max_stops.png)
 
-7. If you want to any new load to be booked automatically, then turn on **Autobook** toggle, but be careful, this option will book any load that matches filter criteria, so you want to make sure you **setup filters first**.
+7. If you want to any new load to be booked automatically, then turn on **Autobook** toggle, but be careful, this option will book any load that matches filter criteria, so you want to make sure you <b style="color: red">setup filters first</b>.
 
 ![Image](./screenshots/extension_autobook_only.png)
 
