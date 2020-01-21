@@ -24,6 +24,7 @@ Amazon Relay Auto-Booker Extension is developed by experienced developers to hel
 ![Image](./screenshots/extension_webstore.png)
 
 ### How to use extension
+
 1. Open Google Chrome web browser.
 2. Navigate to [Amazon Relay](https://www.relay.amazon.com) website and login.
 
@@ -45,25 +46,25 @@ Amazon Relay Auto-Booker Extension is developed by experienced developers to hel
 
 ![Image](./screenshots/extension_refresh_rate.png)
 
-6. If you want to get notified on a load with less than specific number of stops, then turn on **Max Stops** toggle and enter the number of maximum stops
+7. If you want to get notified on a load with less than specific number of stops, then turn on **Max Stops** toggle and enter the number of maximum stops
 
 ![Image](./screenshots/extension_max_stops.png)
 
-7. If you want to any new load to be booked automatically, then turn on **Autobook** toggle, but be careful, this option will book any load that matches filter criteria, so you want to make sure you <b style="color: red">setup filters first</b>.
+8. If you want to any new load to be booked automatically, then turn on **Autobook** toggle, but be careful, this option will book any load that matches filter criteria, so you want to make sure you <b style="color: red">setup filters first</b>.
 
 ![Image](./screenshots/extension_autobook_only.png)
 
-8. If you want extension to book any new load that matches your filter criteria and has less than or equal defined number of max stops, then turn on both toggles and specify maximum number of stops.
+9. If you want extension to book any new load that matches your filter criteria and has less than or equal defined number of max stops, then turn on both toggles and specify maximum number of stops.
 
 ![Image](./screenshots/extension_both.png)
 
-9. To start the task, click on **Start** button
+10. To start the task, click on **Start** button
 
 ![Image](./screenshots/extension_started.png)
 
-10. If you want to cancel, click on **Stop** button
+11. If you want to cancel, click on **Stop** button
 
-11. Depending on how you setup the extension parameters, when a new load becomes available in load board, extension either marks it:
+12. Depending on how you setup the extension parameters, when a new load becomes available in load board, extension either marks it:
 
 ![Image](./screenshots/marked_load.png)
 
