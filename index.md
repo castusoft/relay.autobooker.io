@@ -1,6 +1,6 @@
-## Amazon Relay Autobooker Chrome Extension Help Page 
+## Amazon Relay Auto-Booker Chrome Extension Help Page 
 
-## Content
+### Content
 - [About the extension](\#about-the-extension)
 - [Requirements](\#requirements)
 - [How to install](\#how-to-install)
@@ -10,7 +10,7 @@
 
 ### About the extension
 
-Amazon Relay Autbooker Extension is developed by exprienced developers to simplify the life of truck dispatchers who struggle getting good loads on load board.
+Amazon Relay Auto-Booker Extension is developed by experienced developers to help you to book amazon relay loads.
 
 ### Requirements
 
@@ -19,7 +19,7 @@ Amazon Relay Autbooker Extension is developed by exprienced developers to simpli
 
 ### How to install
 1. Open Chrome web browser and navigate to [Google Webstore](https://chrome.google.com/webstore/detail/amazon-relay-auto-refresh/gooaddljkpdcjbdigogmajlcgifjjhgp)
-2. Click on **Buy** button (If you do not see **Buy** button, you should change the account [location](/#\#possible-problems-and-solutions))
+2. Click on **Buy** button (If you do not see **Buy** button, you should change the account [location](\#possible-problems-and-solutions))
 
 ![Image](./screenshots/extension_webstore.png)
 
@@ -39,9 +39,13 @@ Amazon Relay Autbooker Extension is developed by exprienced developers to simpli
 
 5. Click on extension icon on browser right top corner
 
-![Image](./screenshots/extemsion_clear.png)
+![Image](./screenshots/extension_clear.png)
 
-6. If you want to get notified on a new load with specific number of stops, then turn on **Max Stops** toggle and enter number of maximum stops
+6. By default refresh rate is determined by app, but if you want to set your own value, toggle **Refresh Rate** and enter the number of refreshes per second
+
+![Image](./screenshots/extension_refresh_rate.png)
+
+6. If you want to get notified on a load with less than specific number of stops, then turn on **Max Stops** toggle and enter the number of maximum stops
 
 ![Image](./screenshots/extension_max_stops.png)
 
@@ -65,7 +69,7 @@ Amazon Relay Autbooker Extension is developed by exprienced developers to simpli
 
 or books it by clicking on book and accept buttons. Extension notifies you with sound as well.
 
-![Image](./screenshots/booked.png)
+![Image](./screenshots/booked_trip.png)
 
 ### Possible problems and solutions
 #### Problem:
@@ -84,6 +88,12 @@ Extension is not available in some countries, in order to download from one of t
 Extension icon is grayed out
 #### Solution:
 Extension is active only on amazon relay load board, please navigate to [Load Board](https://relay.amazon.com/tours/loadboard?)
+
+#### Problem:
+Loading spinner is not going away on load board when I manually set refresh rate.
+#### Solution:
+When refresh rate is too high, relay might log you out, we recommend to keep refresh rate on auto or set it to lower rates.
+
 
 ### Contact
 Thank you for using Amazon Relay Autobooker Extension!
